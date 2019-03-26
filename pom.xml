@@ -3,7 +3,7 @@
     <groupId>com.upside</groupId>
     <artifactId>upside-oss-pom</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>upside-oss-pom</name>
     <description>GetUpside Master Public Parent POM</description>
     <url>https://getupside.com/</url>
@@ -27,7 +27,7 @@
     <scm>
         <connection>scm:git:git@github.com:upside-services/upside-oss-pom.git</connection>
         <developerConnection>scm:git:git@github.com:upside-services/upside-oss-pom.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>0.0.1</tag>
         <url>https://github.com/upside-services/upside-oss-pom.git</url>
     </scm>
     
